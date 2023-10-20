@@ -1,0 +1,10 @@
+SENTENCE1: After the Sept. 11 attacks, Malinowski said, the CIA bypassed the advice of FBI and military interrogators and turned to contractors "whose approach would be consistent with the Bush administration's theory that you have to go to the dark side to fight the dark side." Agency officials have maintained that the CIA turned to contractors because the agency didn't have its own roster of skilled interrogators, and that contractors were required to abide by the same rules as agency employees. But one contract interrogator, David A. Passaro, was convicted of beating an Afghan detainee who later died. Passaro was sentenced in 2007 to eight years in prison.
+SENTENCE2: Tom Malinowski is director for Human Rights Watch.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 1
+
+SENTENCE1: The launch of France's new 24 hour TV news channel, France 24, saw the new jointly owned channel start by going online. A streaming broadcast became available on the internet from 19:29 GMT today. Future plans are to have the new channel available on cable and satellite with English and French reporting. Coverage in Arabic and Spanish is among the ambitious future plans for the channel.
+SENTENCE2: France24 is a French TV Channel.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 0
+

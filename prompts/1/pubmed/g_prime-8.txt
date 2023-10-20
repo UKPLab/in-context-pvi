@@ -1,0 +1,32 @@
+CONTEXT: Diet may influence the pharmacokinetics of ASA, but effects may be through modulation of glycine conjugation rather than glucuronidation.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 2
+
+CONTEXT: Dietary interventions in older people were effective in maintaining fruit and fish intake, but this did not lead to a significant reduction in cognitive decline.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 3
+
+CONTEXT: The etiology of anemia appears to be iron-related and precipitated by the female sex.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 1
+
+CONTEXT: Further research is needed to evaluate clinical applications of the PA, such as a more accurate identification of malnourished cardiac surgery patients.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 0
+
+CONTEXT: Most patients with leakage were managed successfully with interventional methods.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 0
+
+CONTEXT: The adoption of a comprehensive preoperative multidisciplinary approach led to significant improvements in the postoperative outcomes and also in the compliance to the postoperative follow-up.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 3
+
+CONTEXT: Validation of these biomarkers and their potential treatment modulation may influence the clinical care of patients with CCM disease.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 2
+
+CONTEXT: Adherence to healthful dietary patterns is associated with favorable concentrations of many cardiometabolic and endocrine biomarkers.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 1
+

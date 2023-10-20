@@ -1,0 +1,10 @@
+SENTENCE1: is the movie last house on the left a true story
+SENTENCE2: The Last House on the Left (1972 film) -- The Last House on the Left is a 1972 American exploitation horror film written, edited, and directed by Wes Craven and produced by Sean S. Cunningham. The film stars Sandra Peabody, Lucy Grantham, David A. Hess, Fred Lincoln, Jeramie Rain, and Marc Sheffler. The plot revolves around two teenage girls who are taken into the woods and tortured by a gang of murderous thugs. The story is inspired by the 1960 Swedish film The Virgin Spring, directed by Ingmar Bergman, which in turn is based on a Swedish ballad, "Töres döttrar i Wänge".
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 1
+
+SENTENCE1: does big ben have a clock on all four sides
+SENTENCE2: Big Ben -- When completed in 1859, it was, says clockmaker Ian Westworth, "the prince of timekeepers: the biggest, most accurate four-faced striking and chiming clock in the world."" The tower had its 150th anniversary on 31 May 2009, during which celebratory events took place.
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 0
+

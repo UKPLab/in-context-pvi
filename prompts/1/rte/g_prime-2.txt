@@ -1,0 +1,10 @@
+SENTENCE1: The Federal Bureau of Investigation started an independent probe of the circumstances shortly after the White House made plain that President Bill Clinton considered industrial espionage a particular threat to US economic interests.
+SENTENCE2: President Clinton thinks that industrial espionage is a threat to America's well being.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 0
+
+SENTENCE1: Vanunu, 49, was abducted by Israeli agents and convicted of treason in 1986 after discussing his work as a mid-level Dimona technician with Britain's Sunday Times newspaper.
+SENTENCE2: Vanunu's disclosures in 1968 led experts to conclude that Israel has a stockpile of nuclear warheads.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 1
+

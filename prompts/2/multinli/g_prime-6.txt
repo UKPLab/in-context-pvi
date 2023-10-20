@@ -1,0 +1,30 @@
+SENTENCE1: We strongly disagree with the Vice President's objections to our audit and access authority.
+SENTENCE2: The Vice President gave the go-ahead to our audit authority.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 0
+
+SENTENCE1: They depended too heavily on the second great principle of contagion, and that seemed to be wrapped up with some kind of association through the signs and houses and the courses of the planets.
+SENTENCE2: The signs, houses and the courses of the planets have a great impact on daily life.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: There is now a chapel occupying the site, which has long been a place of pilgrimage, but the building's foundations may date from the first century.
+SENTENCE2: The site is now occupied by a chapel, the foundation might be a century old at the very least.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+
+SENTENCE1: So the reverse hypothesis could be just as valid.
+SENTENCE2: The opposite theory could be just as valid or worse.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: The man should have died instantly.
+SENTENCE2: The man was perfectly fine. 
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 0
+
+SENTENCE1: my walkman broke so i'm upset now i just have to turn the stereo up real loud
+SENTENCE2: I'm upset that my walkman broke and now I have to turn the stereo up really loud.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+

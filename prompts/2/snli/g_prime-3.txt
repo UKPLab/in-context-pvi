@@ -1,0 +1,15 @@
+SENTENCE1: A woman talks to two other women and a man with notepads in an office building with large windows.
+SENTENCE2: The group are discussing a project.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: A man wearing a white shire shirt and hate is riding a bucking horse in a rodeo.
+SENTENCE2: A man is being bucked on a horse.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+
+SENTENCE1: A mountain biker jumping a slope outdoors in a forest area.
+SENTENCE2: A person is riding in a bobsled.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 0
+

@@ -1,0 +1,20 @@
+SENTENCE1: is there a bridge between wisconsin and michigan
+SENTENCE2: Interstate Bridge (Marinette, Wisconsin – Menominee, Michigan) -- The Interstate Bridge between Marinette, Wisconsin and Menominee, Michigan carries U.S. Route 41 (US 41) over the Menominee River. The current bridge was completed in November 2005 and replaced the previous span built in 1929.
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 0
+
+SENTENCE1: is grey's anatomy season 14 the last season
+SENTENCE2: Grey's Anatomy (season 14) -- On April 20, 2018, ABC officially renewed Grey's Anatomy for a network primetime drama record-setting fifteenth season.
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 1
+
+SENTENCE1: was the office based on a true story
+SENTENCE2: The Office (U.S. TV series) -- The Office is an American television sitcom that aired on NBC from March 24, 2005, to May 16, 2013, lasting nine seasons. It is an adaptation of the original BBC series of the same name and was adapted for American television by Greg Daniels, a veteran writer for Saturday Night Live, King of the Hill, and The Simpsons. It was co-produced by Daniels's Deedle-Dee Productions, and Reveille Productions (later Shine America), in association with Universal Television. The original executive producers were Greg Daniels, Howard Klein, Ben Silverman, Ricky Gervais, and Stephen Merchant, with numerous others being promoted in later seasons.
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 1
+
+SENTENCE1: is hershey ice cream made by hershey chocolate
+SENTENCE2: Hershey Creamery Company -- Hershey Creamery Company, also known as Hershey's Ice Cream, is a creamery that produces Hershey's brand ice cream, sorbet, sherbet, and frozen yogurt, and other frozen treats such as smoothies and frozen slab style ice cream mixers. Founded by Jacob Hershey and four of his brothers in 1894 (all of whom have no relation to Milton S. Hershey and the chocolate company that he founded, also in 1894), it was taken over by the Holder family in the 1920s. The company was one of the first to offer consumers pre-packaged ice cream pints. In 1998, it modernized its operations to increase efficiency and reduce overhead. With their shared names and cities of origin, Hershey Creamery and Hershey Company have had a tumultuous relationship marked by multiple lawsuits over trademark issues. In the mid-1990s, the companies settled their most recent legal battles out of court, with the creamery agreeing to add a disclaimer to its ice cream products to note that it is not affiliated with The Hershey Company.
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 0
+

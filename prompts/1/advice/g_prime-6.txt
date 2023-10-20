@@ -1,0 +1,24 @@
+CONTEXT: Since relative intensity is part of the current PA recommendation, it should be considered when assessing population PA and associated health risks in the older adults.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+
+CONTEXT: Overall, ezetimibe/simvastatin offers an effective and tolerable treatment option for lipid management.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 1
+
+CONTEXT: The highest quartile compared to the lowest quartile of 25OH vitamin D levels is inversely associated with CHD and all-cause mortality adjusting for multiple confounders.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 0
+
+CONTEXT: VI from cataract remains a public health problem in the Akinyele district of Nigeria.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 0
+
+CONTEXT: Opportunistic use of appropriate lung function tests in older people with a history of doctor diagnosed asthma or wheeze or breathlessness at rest could identify untreated asthmatics who might benefit from treatment.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 1
+
+CONTEXT: Once considered a high income country problem, result of this study in urban city like Gondar reveals that overweight/obesity is on the rise in urban Ethiopia, which indicates the need for formulating preventive programs and policies during a childs early years.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+

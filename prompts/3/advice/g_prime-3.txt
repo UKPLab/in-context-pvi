@@ -1,0 +1,12 @@
+CONTEXT: Atorvastatin treatment is associated with improved cardiac function in HF, and may represent an additional option for patients with this disease.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 1
+
+CONTEXT: It is suggested that nocturnal eating should be abstained from to manage serum phosphorus levels to within an adequate range.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+
+CONTEXT: The clinical and biochemical indices differed significantly between women diagnosed with PCOS living in cities and villages.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 0
+

@@ -1,0 +1,15 @@
+SENTENCE1: oh that's a nightmare
+SENTENCE2: This reminded me of many past tragedies. 
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: yeah but well they vary from from place to place it's hard to tell you know how well they've been kept up how old they are and these are probably oh one of the nicest that i found and uh
+SENTENCE2: It's hard to tell how things have been kept up and their age because they vary so much from place to place. 
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+
+SENTENCE1: National saving represents resources available for investment to replace old factories and equipment and to buy more and better capital goods.
+SENTENCE2: Old factories and equipment were never replaces, even when there was national savings.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 0
+

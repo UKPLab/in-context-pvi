@@ -1,0 +1,16 @@
+CONTEXT: In this prospective study, using an indoor wood-burning stove/fireplace in the longest adult residence at least once a week and burning either wood or natural gas/propane was associated with a modestly higher risk of breast cancer.https://doi.org/10.1289/EHP827.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 1
+
+CONTEXT: The HELP intervention was no more effective than a single educational session for reducing BMI in a community sample of obese adolescents.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 3
+
+CONTEXT: The prevalence of arterial hypertension in newly diagnosed type 2 diabetes is high.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 0
+
+CONTEXT: Incorporation of this signature in prospective studies may help to stratify risk of early stage TNBC.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 2
+

@@ -1,0 +1,16 @@
+CONTEXT: I see someone running down the street.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+
+CONTEXT: The boys and the girls seems happy.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: She knocked himself on the head with a zucchini.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: Phillip gave the soldier the medal.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+

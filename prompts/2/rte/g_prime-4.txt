@@ -1,0 +1,20 @@
+SENTENCE1: The Sea-Viewing wide Field-of-View Sensor, SeaWiFS, has brought to oceanographers a welcomed and improved renewal of the ocean color remote sensing data.
+SENTENCE2: Ocean remote sensing is developed.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 0
+
+SENTENCE1: The plaintiffs in this most recent suit contend that Lee, Perlmutter, Arthur Lieberman and Avi Arad conspired in bad faith to conceal and misappropriate financial interests in Lee's creations assigned to Stan Lee Media in 1998. SLM's meltdown involved its former President Peter F. Paul fleeing to Brazil, contributions made to Bill and Hillary Clinton, Paul's extradition and more. In 2007, SLM filed a $5 billion lawsuit in which it claimed co-ownership of all of Stan Lee's creations for Marvel.
+SENTENCE2: Hillary Clinton is Bill's sister.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 1
+
+SENTENCE1: George Herbert Walker Bush (born June 12, 1924) is the former 41st President of the United States of America. Almost immediately upon his return from the war in December 1944, George Bush married Barbara Pierce.
+SENTENCE2: The name of George H.W. Bush's wife is Barbara.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 0
+
+SENTENCE1: I have a 1986 Coca-Cola Grand Union 100 Year Statue of Liberty pin set.
+SENTENCE2: The Statue of Liberty was built in 1986.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 1
+

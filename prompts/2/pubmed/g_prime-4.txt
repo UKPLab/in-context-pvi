@@ -1,0 +1,16 @@
+CONTEXT: Patients with low socioeconomic status were more often obese, physically inactive, smoking, and had elevated blood pressure.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 1
+
+CONTEXT: Treatment with insulin lispro resulted in weight gain and an increased risk of hypoglycemia.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 3
+
+CONTEXT: Some method of estimating LE could be incorporated into algorithms to improve individualized cancer screening to reduce over- and underscreening of older adults.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 0
+
+CONTEXT: Omega-3 fatty acids supplementation could elevate serum irisin in male patients with CAD.
+QUESTION: Is this (0) no relationship, (1) correlation, (2) conditional causation, or (3) direct causation?
+ANSWER: 2
+

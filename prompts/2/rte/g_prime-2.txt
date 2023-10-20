@@ -1,0 +1,10 @@
+SENTENCE1: The Sea-Viewing wide Field-of-View Sensor, SeaWiFS, has brought to oceanographers a welcomed and improved renewal of the ocean color remote sensing data.
+SENTENCE2: Ocean remote sensing is developed.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 0
+
+SENTENCE1: The plaintiffs in this most recent suit contend that Lee, Perlmutter, Arthur Lieberman and Avi Arad conspired in bad faith to conceal and misappropriate financial interests in Lee's creations assigned to Stan Lee Media in 1998. SLM's meltdown involved its former President Peter F. Paul fleeing to Brazil, contributions made to Bill and Hillary Clinton, Paul's extradition and more. In 2007, SLM filed a $5 billion lawsuit in which it claimed co-ownership of all of Stan Lee's creations for Marvel.
+SENTENCE2: Hillary Clinton is Bill's sister.
+QUESTION: Is this (0) entailment, or (1) not_entailment?
+ANSWER: 1
+

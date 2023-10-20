@@ -1,0 +1,10 @@
+SENTENCE1: is kinetic energy a quantitative measure of inertia
+SENTENCE2: Inertia -- By this formula, the greater its mass, the less a body accelerates under a given force. The masses defined by the above formulas are equal because the latter formula is a consequence of the former, if mass does not depend on time and velocity. Thus, "mass is the quantitative or numerical measure of a body's inertia, that is of its resistance to being accelerated".
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 1
+
+SENTENCE1: has the canadian dollar ever been higher than the us dollar
+SENTENCE2: Canadian dollar -- The gold standard was temporarily abandoned during the First World War and definitively abolished on April 10, 1933. At the outbreak of the Second World War, the exchange rate to the U.S. dollar was fixed at C$1.10 = US$1.00. This was changed to parity in 1946. In 1949, sterling was devalued and Canada followed, returning to a peg of C$1.10 = US$1.00. However, Canada allowed its dollar to float in 1950, whereupon the currency rose to a slight premium over the U.S. dollar for the next decade. But the Canadian dollar fell sharply after 1960 before it was again pegged in 1962 at C$1.00 = US$0.925. This was sometimes pejoratively referred to as the "Diefenbuck" or the "Diefendollar", after the then Prime Minister, John Diefenbaker. This peg lasted until 1970, after which the currency's value has floated.
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 0
+

@@ -1,0 +1,30 @@
+SENTENCE1: A woman talks to two other women and a man with notepads in an office building with large windows.
+SENTENCE2: The group are discussing a project.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: A man wearing a white shire shirt and hate is riding a bucking horse in a rodeo.
+SENTENCE2: A man is being bucked on a horse.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+
+SENTENCE1: A mountain biker jumping a slope outdoors in a forest area.
+SENTENCE2: A person is riding in a bobsled.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 0
+
+SENTENCE1: Two adults, one female in white, with shades and one male, gray clothes, walking across a street, away from a eatery with a blurred image of a dark colored red shirted person in the foreground.
+SENTENCE2: Two people ride bicycles into a tunnel.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 0
+
+SENTENCE1: A small group of church-goers watch a choir practice.
+SENTENCE2: The pastor and elders watch the choir to make sure they are good.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: Woman in white in foreground and a man slightly behind walking with a sign for John's Pizza and Gyro in the background.
+SENTENCE2: The woman and man are outdoors.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+

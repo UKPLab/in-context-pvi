@@ -1,0 +1,30 @@
+SENTENCE1: A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.
+SENTENCE2: a bearded man pulls a rope
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+
+SENTENCE1: A couple holding hands walks down a street.
+SENTENCE2: There are people sitting on the side of the road.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 0
+
+SENTENCE1: A woman in costume is marching with a large drum.
+SENTENCE2: Highschool homcoming marching band is marching.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: A woman wearing an apron inspects a large pot on a table filled with cups, bowls, pots and baskets of assorted size.
+SENTENCE2: A woman is wearing an apron.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+
+SENTENCE1: a couple are holding hands behind their backs while walking down a street, and the man has his arm around her shoulder.
+SENTENCE2: couple walking home
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: A little girl follows two guys with umbrellas down a path.
+SENTENCE2: The people are walking home in the rain.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+

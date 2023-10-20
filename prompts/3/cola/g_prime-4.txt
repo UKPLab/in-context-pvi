@@ -1,0 +1,16 @@
+CONTEXT: Our rabbit and the neighbor's cat like them.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: Which man did you talk?
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: John is taller than that man is.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+
+CONTEXT: I saw John on Sunday.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+

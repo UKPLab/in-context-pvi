@@ -1,0 +1,24 @@
+CONTEXT: The findings suggest that JDC practices can be enhanced to improve outcomes for participating juvenile offenders.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 1
+
+CONTEXT: IL11-RA, MLF1P, and ER+ were the determinants that were associated with increasing bone metastasis incidence.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 0
+
+CONTEXT: The authors propose consideration of an MPR-adherence threshold of 0.9 MPR.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+
+CONTEXT: There were much more differences on bio-incompatibility among different dialyzer membranes.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 0
+
+CONTEXT: IMPLICATIONS FOR NURSING: Results provide support for using the social cognitive processing theory in an intervention design with partners of long-term BCSs to decrease depressive symptoms.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 1
+
+CONTEXT: Furthermore, the results suggest that community group-based exercise programs should attempt to engage in age-targeting but not necessarily gender-targeting among older adults.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+

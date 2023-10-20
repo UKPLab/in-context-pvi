@@ -1,0 +1,10 @@
+SENTENCE1: is there a bridge between wisconsin and michigan
+SENTENCE2: Interstate Bridge (Marinette, Wisconsin – Menominee, Michigan) -- The Interstate Bridge between Marinette, Wisconsin and Menominee, Michigan carries U.S. Route 41 (US 41) over the Menominee River. The current bridge was completed in November 2005 and replaced the previous span built in 1929.
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 0
+
+SENTENCE1: is grey's anatomy season 14 the last season
+SENTENCE2: Grey's Anatomy (season 14) -- On April 20, 2018, ABC officially renewed Grey's Anatomy for a network primetime drama record-setting fifteenth season.
+QUESTION: Is this (0) True, or (1) False?
+ANSWER: 1
+

@@ -1,0 +1,16 @@
+CONTEXT: How much harder has it rained, the faster a flow you see in the river?
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+
+CONTEXT: The more obnoxious Fred, the less attention you should pay to him.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: I'm glad I saw anybody.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: Julie and Jenny arrived first
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+

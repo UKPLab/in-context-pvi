@@ -1,0 +1,24 @@
+CONTEXT: Atorvastatin treatment is associated with improved cardiac function in HF, and may represent an additional option for patients with this disease.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 1
+
+CONTEXT: It is suggested that nocturnal eating should be abstained from to manage serum phosphorus levels to within an adequate range.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+
+CONTEXT: The clinical and biochemical indices differed significantly between women diagnosed with PCOS living in cities and villages.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 0
+
+CONTEXT: As compliance with naltrexone within the context of CBT has such a large impact of treatment outcome, methods of enhancing compliance during treatment should be given the utmost attention.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+
+CONTEXT: To improve children's diets overall, efforts should focus on ensuring all students have access to a healthful breakfast, at home or at school.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+
+CONTEXT: A watch-and-wait strategy is justified when close follow-up is guaranteed.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 1
+

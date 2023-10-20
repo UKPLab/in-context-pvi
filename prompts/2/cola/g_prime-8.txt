@@ -1,0 +1,32 @@
+CONTEXT: I see someone running down the street.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+
+CONTEXT: The boys and the girls seems happy.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: She knocked himself on the head with a zucchini.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: Phillip gave the soldier the medal.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+
+CONTEXT: Cynthia gobbled the pizza down.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+
+CONTEXT: That I should evaporate is my fondest dream
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 1
+
+CONTEXT: What Mary gave was a book to John.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+
+CONTEXT: John was cost $10 by the book.
+QUESTION: Is this (0) unacceptable, or (1) acceptable?
+ANSWER: 0
+

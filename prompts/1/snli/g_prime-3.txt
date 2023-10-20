@@ -1,0 +1,15 @@
+SENTENCE1: A family with a baby, the father is wearing a save the children sign.
+SENTENCE2: A woman is holding a baby.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 2
+
+SENTENCE1: A man with a red shirt is watching another man who is standing on top of a attached cart filled to the top.
+SENTENCE2: A man is giving another man a piggyback ride.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 0
+
+SENTENCE1: A skier in electric green on the edge of a ramp made of metal bars.
+SENTENCE2: The brightly dressed skier slid down the race course.
+QUESTION: Is this (0) contradiction, (1) entailment, or (2) neutral?
+ANSWER: 1
+

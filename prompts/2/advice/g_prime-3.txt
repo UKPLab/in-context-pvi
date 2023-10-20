@@ -1,0 +1,12 @@
+CONTEXT: The findings suggest that JDC practices can be enhanced to improve outcomes for participating juvenile offenders.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 1
+
+CONTEXT: IL11-RA, MLF1P, and ER+ were the determinants that were associated with increasing bone metastasis incidence.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 0
+
+CONTEXT: The authors propose consideration of an MPR-adherence threshold of 0.9 MPR.
+QUESTION: Is this (0) no advice, (1) weak advice, or (2) strong advice?
+ANSWER: 2
+
