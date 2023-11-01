@@ -8,8 +8,14 @@ https://www.ukp.tu-darmstadt.de/
 
 https://www.tu-darmstadt.de/
 
+## in-context PVI
+See [in_context_pvi.ipynb](https://github.com/UKPLab/in-context-pvi/blob/main/in_context_pvi.ipynb) for the calculation of in-context PVI.
+
 ## evaluation scores
-See [results](https://github.com/boblus/in-context-pvi/blob/main/results.csv) for the configurations and evaluation scores of our experiments.
+See [results.csv](https://github.com/boblus/in-context-pvi/blob/main/results.csv) for the configurations and evaluation scores of our experiments.
+
+## disclaimer
+This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
 
 ## citation
 Please use the following citation:
